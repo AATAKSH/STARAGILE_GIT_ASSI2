@@ -1,3 +1,4 @@
-This is a python file
-created by aksh
-for staragile assignment 2 
+hello 
+this is a developer1
+working on assignment 1
+from gitbash

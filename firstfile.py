@@ -1,3 +1,3 @@
-This is a python file
-created by aksh
-for staragile assignment 2 
+
+this is created by developer2
+for assigment 2

@@ -1,3 +1,5 @@
-
-this is created by developer2
-for assigment 2
+<<<<<<< HEAD
+hello
+this is created by developer
+for assignment 2 
+from git bash
